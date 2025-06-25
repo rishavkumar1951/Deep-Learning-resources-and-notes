@@ -1,8 +1,12 @@
+4. Execute Code
+
 5. Perceptron Trick | How to train a Perceptron | Perceptron Part 2 | Deep Learning Full Course
     perceptron-trick.ipynb
 
 6. Perceptron Loss Function | Hinge Loss | Binary Cross Entropy | Sigmoid Function
     perceptron_loss_function(hinge).ipynb
+	*see types of loss function in perceptron-trick
+	*see fromula of sigmoid, binary and categorical cross entropy
 
 7. Problem with Perceptron
     Problem_with_perceptron.ipynb
@@ -20,10 +24,10 @@
         gre-admission-prediction.ipynb
 
 16. Backpropagation Part 2 | The How | Complete Deep Learning Playlist
-    Regression - https://colab.research.google.com/drive/1kIljMvDFx7dyyDXTMsd1fEkg9Q24xhIE?usp=sharing
-    Classification - https://colab.research.google.com/drive/1dJZZdhngq4eN83sQCupyh2QbyzrsBB-e?usp=sharing
+    Backpropagation Regression - https://colab.research.google.com/drive/1kIljMvDFx7dyyDXTMsd1fEkg9Q24xhIE?usp=sharing
+    Backpropagation Classification - https://colab.research.google.com/drive/1dJZZdhngq4eN83sQCupyh2QbyzrsBB-e?usp=sharing
     Using keras:     using-keras.ipynb
-    Keras also did not did loss function less than our function.
+    Keras also did not loss function less than our function.
     So, this is normally good solution for given i/p.
 
 
@@ -39,6 +43,7 @@
 
 
 25  Dropout Layers in ANN | Code Example | Regression | Classification
+	dropout_notebook.ipynb
     dropout-classification-example.ipynb    https://colab.research.google.com/drive/1KyMLdV1yB0qVdS-1huxKMN9xVKhrfxGL?usp=sharing
     Test for dropout ration 0.5 and check differences.
     Regression: https://drive.google.com/file/d/1p9I76sny0zyIX9VNBEivj6TJaFGwj0GG/view
@@ -47,7 +52,7 @@
 26  Regularization in Deep Learning | L2 Regularization in ANN | L1 Regularization | Weight Decay in ANN
     regularization.ipynb    https://colab.research.google.com/drive/1PObj5KrXLDDmHjoJ1x0bVmxAFbif5s7q?usp=sharing
 
-
+27	activation_function.ipynb
 
 29  Weight Initialization Techniques | What not to do? | Deep Learning
     zero-initialization-relu.ipynb  https://colab.research.google.com/drive/1bsVRmTjYjiQUFee3REHCYeY3vv5r7nfH?usp=sharing
@@ -86,11 +91,9 @@
 47  Backpropagation in CNN | Part 1 | Deep Learning
 
 48  CNN Backpropagation Part 2 | How Backpropagation works on Convolution, Maxpooling and Flatten Layers
-    Watch again to understand
 
 49  Cat Vs Dog Image Classification Project | Deep Learning Project | CNN Project
     Do practical
-
 
 50  Data Augmentation in Deep Learning | CNN
     Do practical
@@ -101,6 +104,7 @@
 
 52  What does a CNN see? | Visualizing CNN Filters and Feature Maps | CampusX
     Must do practical : 8. visualising_cnn.ipynb
+	using-pretrained-model.ipynb
 
 53  What is Transfer Learning? Transfer Learning in Keras | Fine Tuning Vs Feature Extraction
     9. transfer_learning_feature_extraction(without_data_augmentation).ipynb
@@ -131,9 +135,11 @@
 
 65  Deep RNNs | Stacked RNNs | Stacked LSTMs | Stacked GRUs | CampusX
     deep-rnns.ipynb https://colab.research.google.com/drive/1c4eN4cPxajCpFG6yr1mAUi3sV1JaGLDY?usp=sharing
-
+	see code implementation of 
+		Deep LSTM and Deep GRU
 
 66  Bidirectional RNN | BiLSTM | Bidirectional LSTM | Bidirectional GRU
     Code in lecture taught
 
-
+74: @24:09 scaled_self_attention.ipynb
+77: bertviz_tutorial.ipynb
